@@ -1,0 +1,296 @@
+protein_id,KO,pathway_count,pathway_names,functional_categories,functional_priority,functional_score,pathway_score,preliminary_score,rank
+AB_gene_3291,K00382,17,"2-Oxocarboxylic acid metabolism; Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Carbon metabolism; Citrate cycle (TCA cycle); Glycine, serine and threonine metabolism; Glycolysis / Gluconeogenesis; Glyoxylate and dicarboxylate metabolism; Lipoic acid metabolism; Lysine degradation; Metabolic pathways; Microbial metabolism in diverse environments; One carbon pool by folate; Propanoate metabolism; Pyruvate metabolism; Tryptophan metabolism; Valine, leucine and isoleucine degradation",Cofactor / vitamin metabolism; Energy metabolism; Other,High,4,10,14,1
+AB_gene_1673,K03781,16,Amyotrophic lateral sclerosis; Biosynthesis of secondary metabolites; Carbon metabolism; Chemical carcinogenesis - reactive oxygen species; FoxO signaling pathway; Glyoxylate and dicarboxylate metabolism; Longevity regulating pathway; Longevity regulating pathway - multiple species; Longevity regulating pathway - worm; MAPK signaling pathway - plant; MAPK signaling pathway - yeast; Metabolic pathways; Pathways of neurodegeneration - multiple diseases; Peroxisome; Peroxisome - yeast; Tryptophan metabolism,Energy metabolism; Other,High,4,10,14,2
+AB_gene_2905,K00812,14,"2-Oxocarboxylic acid metabolism; Alanine, aspartate and glutamate metabolism; Arginine and proline metabolism; Arginine biosynthesis; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Cysteine and methionine metabolism; Isoquinoline alkaloid biosynthesis; Metabolic pathways; Novobiocin biosynthesis; Phenylalanine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis; Tropane, piperidine and pyridine alkaloid biosynthesis; Tyrosine metabolism",Amino acid biosynthesis; Other,High,4,10,14,3
+AB_gene_2766,K01915,13,"Alanine, aspartate and glutamate metabolism; Arginine biosynthesis; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; GABAergic synapse; Glutamatergic synapse; Glyoxylate and dicarboxylate metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Necroptosis; Nitrogen metabolism; Plant hormone signal transduction; Two-component system",Amino acid biosynthesis; Other,High,4,10,14,4
+AB_gene_2876,K00031,12,2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Central carbon metabolism in cancer; Citrate cycle (TCA cycle); Glutathione metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Other carbon fixation pathways; Peroxisome; Peroxisome - yeast,Amino acid biosynthesis; Energy metabolism; Other,High,4,10,14,5
+AB_gene_2898,K00134,12,Alzheimer disease; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon fixation by Calvin cycle; Carbon metabolism; Diabetic cardiomyopathy; Glycolysis / Gluconeogenesis; HIF-1 signaling pathway; Metabolic pathways; Microbial metabolism in diverse environments; Pathogenic Escherichia coli infection; Salmonella infection,Amino acid biosynthesis; Energy metabolism; Other,High,4,10,14,6
+AB_gene_870,K15778,12,Amino sugar and nucleotide sugar metabolism; Biosynthesis of nucleotide sugars; Biosynthesis of secondary metabolites; Fructose and mannose metabolism; Galactose metabolism; Glycolysis / Gluconeogenesis; Metabolic pathways; Microbial metabolism in diverse environments; Pentose phosphate pathway; Purine metabolism; Starch and sucrose metabolism; Streptomycin biosynthesis,Nucleotide metabolism; Other,High,4,10,14,7
+AB_gene_151,K00963,10,Amino sugar and nucleotide sugar metabolism; Biosynthesis of cofactors; Biosynthesis of nucleotide sugars; Biosynthesis of secondary metabolites; Biosynthesis of various nucleotide sugars; Galactose metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Pentose and glucuronate interconversions; Starch and sucrose metabolism,Cofactor / vitamin metabolism; Other,High,4,10,14,8
+AB_gene_1851,K01624,10,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon fixation by Calvin cycle; Carbon metabolism; Fructose and mannose metabolism; Glycolysis / Gluconeogenesis; Metabolic pathways; Methane metabolism; Microbial metabolism in diverse environments; Pentose phosphate pathway,Amino acid biosynthesis; Energy metabolism; Other,High,4,10,14,9
+AB_gene_2455,K01682,10,2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Citrate cycle (TCA cycle); Glyoxylate and dicarboxylate metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Other carbon fixation pathways; Propanoate metabolism,Amino acid biosynthesis; Energy metabolism; Other,High,4,10,14,10
+AB_gene_3264,K00826,10,"2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Cysteine and methionine metabolism; Glucosinolate biosynthesis; Metabolic pathways; Pantothenate and CoA biosynthesis; Valine, leucine and isoleucine biosynthesis; Valine, leucine and isoleucine degradation",Amino acid biosynthesis; Cofactor / vitamin metabolism; Other,High,4,10,14,11
+AB_gene_1273,K00928,9,"2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Cysteine and methionine metabolism; Glycine, serine and threonine metabolism; Lysine biosynthesis; Metabolic pathways; Microbial metabolism in diverse environments; Monobactam biosynthesis",Amino acid biosynthesis; Other,High,4,9,13,12
+AB_gene_163,K01659,9,2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Citrate cycle (TCA cycle); Glyoxylate and dicarboxylate metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Propanoate metabolism,Amino acid biosynthesis; Energy metabolism; Other,High,4,9,13,13
+AB_gene_1749,K00640,9,Biofilm formation - Vibrio cholerae; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Cysteine and methionine metabolism; Exopolysaccharide biosynthesis; Metabolic pathways; Microbial metabolism in diverse environments; Sulfur metabolism,Amino acid biosynthesis; Energy metabolism; Other,High,4,9,13,14
+AB_gene_1986,K00627,9,2-Oxocarboxylic acid metabolism; Biosynthesis of secondary metabolites; Carbon metabolism; Citrate cycle (TCA cycle); Glycolysis / Gluconeogenesis; Lipoic acid metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Pyruvate metabolism,Energy metabolism; Other,High,4,9,13,15
+AB_gene_2358,K02160,9,Biosynthesis of secondary metabolites; Carbon metabolism; Fatty acid biosynthesis; Fatty acid metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Other carbon fixation pathways; Propanoate metabolism; Pyruvate metabolism,Energy metabolism; Other,High,4,9,13,16
+AB_gene_3069,K00658,9,2-Oxocarboxylic acid metabolism; Biosynthesis of secondary metabolites; Carbon metabolism; Citrate cycle (TCA cycle); Lipoic acid metabolism; Lysine degradation; Metabolic pathways; Microbial metabolism in diverse environments; Tryptophan metabolism,Energy metabolism; Other,High,4,9,13,17
+AB_gene_3075,K01647,9,2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Citrate cycle (TCA cycle); Glyoxylate and dicarboxylate metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Peroxisome - yeast,Amino acid biosynthesis; Energy metabolism; Other,High,4,9,13,18
+AB_gene_3226,K01963,9,Biosynthesis of secondary metabolites; Carbon metabolism; Fatty acid biosynthesis; Fatty acid metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Other carbon fixation pathways; Propanoate metabolism; Pyruvate metabolism,Energy metabolism; Other,High,4,9,13,19
+AB_gene_3636,K00627,9,2-Oxocarboxylic acid metabolism; Biosynthesis of secondary metabolites; Carbon metabolism; Citrate cycle (TCA cycle); Glycolysis / Gluconeogenesis; Lipoic acid metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Pyruvate metabolism,Energy metabolism; Other,High,4,9,13,20
+AB_gene_3637,K00163,9,2-Oxocarboxylic acid metabolism; Biosynthesis of secondary metabolites; Carbon metabolism; Citrate cycle (TCA cycle); Glycolysis / Gluconeogenesis; Lipoic acid metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Pyruvate metabolism,Energy metabolism; Other,High,4,9,13,21
+AB_gene_489,K00133,9,"2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Cysteine and methionine metabolism; Glycine, serine and threonine metabolism; Lysine biosynthesis; Metabolic pathways; Microbial metabolism in diverse environments; Monobactam biosynthesis",Amino acid biosynthesis; Other,High,4,9,13,22
+AB_gene_655,K01962,9,Biosynthesis of secondary metabolites; Carbon metabolism; Fatty acid biosynthesis; Fatty acid metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Other carbon fixation pathways; Propanoate metabolism; Pyruvate metabolism,Energy metabolism; Other,High,4,9,13,23
+AB_gene_679,K00817,9,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Histidine metabolism; Metabolic pathways; Novobiocin biosynthesis; Phenylalanine metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis; Tropane, piperidine and pyridine alkaloid biosynthesis; Tyrosine metabolism",Amino acid biosynthesis; Other,High,4,9,13,24
+AB_gene_1026,K00957,8,Biosynthesis of secondary metabolites; Metabolic pathways; Microbial metabolism in diverse environments; Monobactam biosynthesis; Purine metabolism; Selenocompound metabolism; Sulfur cycle; Sulfur metabolism,Nucleotide metabolism; Other,High,4,8,12,25
+AB_gene_152,K00012,8,Amino sugar and nucleotide sugar metabolism; Ascorbate and aldarate metabolism; Biosynthesis of cofactors; Biosynthesis of nucleotide sugars; Biosynthesis of various nucleotide sugars; Metabolic pathways; Microbial metabolism in diverse environments; Pentose and glucuronate interconversions,Cofactor / vitamin metabolism; Other,High,4,8,12,26
+AB_gene_1825,K00615,8,Biosynthesis of amino acids; Biosynthesis of ansamycins; Biosynthesis of secondary metabolites; Carbon fixation by Calvin cycle; Carbon metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Pentose phosphate pathway,Amino acid biosynthesis; Energy metabolism; Other,High,4,8,12,27
+AB_gene_2492,K01007,8,Biosynthesis of secondary metabolites; Carbon metabolism; Glycolysis / Gluconeogenesis; Metabolic pathways; Methane metabolism; Microbial metabolism in diverse environments; Other carbon fixation pathways; Pyruvate metabolism,Energy metabolism; Other,High,4,8,12,28
+AB_gene_304,K15633,8,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Glycine, serine and threonine metabolism; Glycolysis / Gluconeogenesis; Metabolic pathways; Methane metabolism; Microbial metabolism in diverse environments",Amino acid biosynthesis; Energy metabolism; Other,High,4,8,12,29
+AB_gene_3073,K00242,8,Biosynthesis of secondary metabolites; Butanoate metabolism; Carbon metabolism; Citrate cycle (TCA cycle); Metabolic pathways; Microbial metabolism in diverse environments; Other carbon fixation pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,8,12,30
+AB_gene_3074,K00241,8,Biosynthesis of secondary metabolites; Butanoate metabolism; Carbon metabolism; Citrate cycle (TCA cycle); Metabolic pathways; Microbial metabolism in diverse environments; Other carbon fixation pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,8,12,31
+AB_gene_3460,K00058,8,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Cysteine and methionine metabolism; Glycine, serine and threonine metabolism; Metabolic pathways; Methane metabolism; Microbial metabolism in diverse environments",Amino acid biosynthesis; Energy metabolism; Other,High,4,8,12,32
+AB_gene_555,K00925,8,Carbon metabolism; Metabolic pathways; Methane metabolism; Microbial metabolism in diverse environments; Other carbon fixation pathways; Propanoate metabolism; Pyruvate metabolism; Taurine and hypotaurine metabolism,Energy metabolism; Other,High,4,8,12,33
+AB_gene_593,K01652,8,"2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Butanoate metabolism; C5-Branched dibasic acid metabolism; Metabolic pathways; Pantothenate and CoA biosynthesis; Valine, leucine and isoleucine biosynthesis",Amino acid biosynthesis; Other,High,4,8,12,34
+AB_gene_594,K01653,8,"2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Butanoate metabolism; C5-Branched dibasic acid metabolism; Metabolic pathways; Pantothenate and CoA biosynthesis; Valine, leucine and isoleucine biosynthesis",Amino acid biosynthesis; Other,High,4,8,12,35
+AB_gene_1754,K14260,7,"2-Oxocarboxylic acid metabolism; Alanine, aspartate and glutamate metabolism; Arginine biosynthesis; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Valine, leucine and isoleucine biosynthesis",Amino acid biosynthesis; Other,High,4,7,11,36
+AB_gene_1886,K01638,7,Biosynthesis of secondary metabolites; Carbon metabolism; Glyoxylate and dicarboxylate metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Peroxisome - yeast; Pyruvate metabolism,Energy metabolism; Other,High,4,7,11,37
+AB_gene_2116,K00948,7,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Pentose phosphate pathway; Purine metabolism,Amino acid biosynthesis; Energy metabolism; Nucleotide metabolism; Other,High,4,7,11,38
+AB_gene_2769,K01658,7,"Biofilm formation - Pseudomonas aeruginosa; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenazine biosynthesis; Phenylalanine, tyrosine and tryptophan biosynthesis; Quorum sensing",Amino acid biosynthesis; Other,High,4,7,11,39
+AB_gene_311,K00003,7,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Cysteine and methionine metabolism; Glycine, serine and threonine metabolism; Lysine biosynthesis; Metabolic pathways; Microbial metabolism in diverse environments",Amino acid biosynthesis; Other,High,4,7,11,40
+AB_gene_344,K01657,7,"Biofilm formation - Pseudomonas aeruginosa; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenazine biosynthesis; Phenylalanine, tyrosine and tryptophan biosynthesis; Quorum sensing",Amino acid biosynthesis; Other,High,4,7,11,41
+AB_gene_3696,K01079,7,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Glycine, serine and threonine metabolism; Metabolic pathways; Methane metabolism; Microbial metabolism in diverse environments",Amino acid biosynthesis; Energy metabolism; Other,High,4,7,11,42
+AB_gene_3759,K01595,7,Carbon fixation by Calvin cycle; Carbon metabolism; Metabolic pathways; Methane metabolism; Microbial metabolism in diverse environments; Other carbon fixation pathways; Pyruvate metabolism,Energy metabolism; Other,High,4,7,11,43
+AB_gene_477,K01703,7,"2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; C5-Branched dibasic acid metabolism; Glucosinolate biosynthesis; Metabolic pathways; Valine, leucine and isoleucine biosynthesis",Amino acid biosynthesis; Other,High,4,7,11,44
+AB_gene_553,K01676,7,Biosynthesis of secondary metabolites; Carbon metabolism; Citrate cycle (TCA cycle); Metabolic pathways; Microbial metabolism in diverse environments; Other carbon fixation pathways; Pyruvate metabolism,Energy metabolism; Other,High,4,7,11,45
+AB_gene_1039,K01428,6,Arginine biosynthesis; Atrazine degradation; Epithelial cell signaling in Helicobacter pylori infection; Metabolic pathways; Microbial metabolism in diverse environments; Purine metabolism,Nucleotide metabolism; Other,High,4,6,10,46
+AB_gene_1165,K01940,6,"Alanine, aspartate and glutamate metabolism; Arginine biosynthesis; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Fluid shear stress and atherosclerosis; Metabolic pathways",Amino acid biosynthesis; Other,High,4,6,10,47
+AB_gene_1577,K01752,6,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Cysteine and methionine metabolism; Glycine, serine and threonine metabolism; Metabolic pathways",Amino acid biosynthesis; Energy metabolism; Other,High,4,6,10,48
+AB_gene_1752,K05597,6,"Alanine, aspartate and glutamate metabolism; Arginine biosynthesis; Biosynthesis of secondary metabolites; D-Amino acid metabolism; Metabolic pathways; Two-component system",Amino acid biosynthesis; Other,High,4,6,10,49
+AB_gene_2252,K01754,6,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Glycine, serine and threonine metabolism; Metabolic pathways; Valine, leucine and isoleucine biosynthesis",Amino acid biosynthesis; Energy metabolism; Other,High,4,6,10,50
+AB_gene_2498,K02257,6,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Oxidative phosphorylation; Porphyrin metabolism; Thermogenesis,Cofactor / vitamin metabolism; Energy metabolism; Other,High,4,6,10,51
+AB_gene_2756,K00029,6,Carbon fixation by Calvin cycle; Carbon metabolism; Metabolic pathways; Microbial metabolism in diverse environments; PPAR signaling pathway; Pyruvate metabolism,Energy metabolism; Other,High,4,6,10,52
+AB_gene_2829,K03787,6,Biosynthesis of secondary metabolites; Metabolic pathways; Nicotinate and nicotinamide metabolism; Nucleotide metabolism; Purine metabolism; Pyrimidine metabolism,Nucleotide metabolism; Other,High,4,6,10,53
+AB_gene_2837,K01756,6,"Alanine, aspartate and glutamate metabolism; Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Nucleotide metabolism; Purine metabolism",Cofactor / vitamin metabolism; Nucleotide metabolism; Other,High,4,6,10,54
+AB_gene_2997,K01778,6,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; D-Amino acid metabolism; Lysine biosynthesis; Metabolic pathways; Microbial metabolism in diverse environments,Amino acid biosynthesis; Other,High,4,6,10,55
+AB_gene_2998,K01586,6,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; D-Amino acid metabolism; Lysine biosynthesis; Metabolic pathways; Microbial metabolism in diverse environments,Amino acid biosynthesis; Other,High,4,6,10,56
+AB_gene_310,K01733,6,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Glycine, serine and threonine metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Vitamin B6 metabolism",Amino acid biosynthesis; Cofactor / vitamin metabolism; Other,High,4,6,10,57
+AB_gene_3153,K01754,6,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbon metabolism; Glycine, serine and threonine metabolism; Metabolic pathways; Valine, leucine and isoleucine biosynthesis",Amino acid biosynthesis; Energy metabolism; Other,High,4,6,10,58
+AB_gene_3416,K01497,6,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Folate biosynthesis; Metabolic pathways; Quorum sensing; Riboflavin metabolism,Cofactor / vitamin metabolism; Other,High,4,6,10,59
+AB_gene_3493,K00266,6,"Alanine, aspartate and glutamate metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Microbial metabolism in diverse environments; Nitrogen metabolism",Amino acid biosynthesis; Other,High,4,6,10,60
+AB_gene_3494,K00265,6,"Alanine, aspartate and glutamate metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Microbial metabolism in diverse environments; Nitrogen metabolism",Amino acid biosynthesis; Other,High,4,6,10,61
+AB_gene_3677,K01919,6,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Cysteine and methionine metabolism; Glutathione metabolism; Histidine metabolism; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,6,10,62
+AB_gene_3730,K01714,6,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Lysine biosynthesis; Metabolic pathways; Microbial metabolism in diverse environments; Monobactam biosynthesis,Amino acid biosynthesis; Other,High,4,6,10,63
+AB_gene_3752,K00215,6,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Lysine biosynthesis; Metabolic pathways; Microbial metabolism in diverse environments; Monobactam biosynthesis,Amino acid biosynthesis; Other,High,4,6,10,64
+AB_gene_3764,K01687,6,"2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Pantothenate and CoA biosynthesis; Valine, leucine and isoleucine biosynthesis",Amino acid biosynthesis; Other,High,4,6,10,65
+AB_gene_478,K01704,6,"2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; C5-Branched dibasic acid metabolism; Metabolic pathways; Valine, leucine and isoleucine biosynthesis",Amino acid biosynthesis; Other,High,4,6,10,66
+AB_gene_519,K00287,6,Antifolate resistance; Biosynthesis of cofactors; Folate biosynthesis; Folate transport and metabolism; Metabolic pathways; One carbon pool by folate,Cofactor / vitamin metabolism; Other,High,4,6,10,67
+AB_gene_544,K00641,6,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Cysteine and methionine metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Sulfur metabolism,Amino acid biosynthesis; Other,High,4,6,10,68
+AB_gene_545,K01649,6,"2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Pyruvate metabolism; Valine, leucine and isoleucine biosynthesis",Amino acid biosynthesis; Other,High,4,6,10,69
+AB_gene_595,K00053,6,"2-Oxocarboxylic acid metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Pantothenate and CoA biosynthesis; Valine, leucine and isoleucine biosynthesis",Amino acid biosynthesis; Other,High,4,6,10,70
+AB_gene_628,K04765,6,Metabolic pathways; Nicotinate and nicotinamide metabolism; Nucleotide metabolism; Pantothenate and CoA biosynthesis; Purine metabolism; Pyrimidine metabolism,Nucleotide metabolism; Other,High,4,6,10,71
+AB_gene_2369,K00075,4,Amino sugar and nucleotide sugar metabolism; Biosynthesis of nucleotide sugars; Metabolic pathways; Peptidoglycan biosynthesis,Cell wall / envelope; Other,High,5,4,9,72
+AB_gene_3508,K01929,4,Lysine biosynthesis; Metabolic pathways; Peptidoglycan biosynthesis; Vancomycin resistance,Cell wall / envelope; Other,High,5,4,9,73
+AB_gene_3644,K01921,4,D-Amino acid metabolism; Metabolic pathways; Peptidoglycan biosynthesis; Vancomycin resistance,Amino acid biosynthesis; Cell wall / envelope; Other,High,5,4,9,74
+AB_gene_3646,K02563,4,Cell cycle - Caulobacter; Metabolic pathways; Peptidoglycan biosynthesis; Vancomycin resistance,Cell wall / envelope; Other,High,5,4,9,75
+AB_gene_791,K01972,4,Base excision repair; DNA replication; Mismatch repair; Nucleotide excision repair,DNA / replication / repair; Other,High,5,4,9,76
+AB_gene_1037,K01430,5,Arginine biosynthesis; Atrazine degradation; Metabolic pathways; Microbial metabolism in diverse environments; Purine metabolism,Nucleotide metabolism; Other,High,4,5,9,77
+AB_gene_1038,K01429,5,Arginine biosynthesis; Atrazine degradation; Metabolic pathways; Microbial metabolism in diverse environments; Purine metabolism,Nucleotide metabolism; Other,High,4,5,9,78
+AB_gene_1949,K01626,5,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis; Quorum sensing",Amino acid biosynthesis; Other,High,4,5,9,79
+AB_gene_2243,K01626,5,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis; Quorum sensing",Amino acid biosynthesis; Other,High,4,5,9,80
+AB_gene_2248,K00145,5,2-Oxocarboxylic acid metabolism; Arginine biosynthesis; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways,Amino acid biosynthesis; Other,High,4,5,9,81
+AB_gene_2310,K02372,5,Biosynthesis of cofactors; Biotin metabolism; Fatty acid biosynthesis; Fatty acid metabolism; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,5,9,82
+AB_gene_2861,K01845,5,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Microbial metabolism in diverse environments; Porphyrin metabolism,Cofactor / vitamin metabolism; Other,High,4,5,9,83
+AB_gene_2894,K00931,5,Arginine and proline metabolism; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Carbapenem biosynthesis; Metabolic pathways,Amino acid biosynthesis; Other,High,4,5,9,84
+AB_gene_295,K11752,5,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Quorum sensing; Riboflavin metabolism,Cofactor / vitamin metabolism; Other,High,4,5,9,85
+AB_gene_3089,K02302,5,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Microbial metabolism in diverse environments; Porphyrin metabolism,Cofactor / vitamin metabolism; Other,High,4,5,9,86
+AB_gene_3227,K01695,5,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Glycine, serine and threonine metabolism; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid biosynthesis; Other,High,4,5,9,87
+AB_gene_3232,K01696,5,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Glycine, serine and threonine metabolism; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid biosynthesis; Other,High,4,5,9,88
+AB_gene_334,K01719,5,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Microbial metabolism in diverse environments; Porphyrin metabolism,Cofactor / vitamin metabolism; Other,High,4,5,9,89
+AB_gene_3418,K00014,5,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Biosynthesis of various plant secondary metabolites; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid biosynthesis; Other,High,4,5,9,90
+AB_gene_3546,K02204,5,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Glycine, serine and threonine metabolism; Metabolic pathways; Microbial metabolism in diverse environments",Amino acid biosynthesis; Other,High,4,5,9,91
+AB_gene_3698,K14652,5,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Folate biosynthesis; Metabolic pathways; Riboflavin metabolism,Cofactor / vitamin metabolism; Other,High,4,5,9,92
+AB_gene_389,K09913,5,Biosynthesis of secondary metabolites; Metabolic pathways; Nucleotide metabolism; Purine metabolism; Pyrimidine metabolism,Nucleotide metabolism; Other,High,4,5,9,93
+AB_gene_557,K01625,5,Carbon metabolism; Glyoxylate and dicarboxylate metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Pentose phosphate pathway,Energy metabolism; Other,High,4,5,9,94
+AB_gene_560,K00131,5,Carbon metabolism; Glycolysis / Gluconeogenesis; Metabolic pathways; Microbial metabolism in diverse environments; Pentose phosphate pathway,Energy metabolism; Other,High,4,5,9,95
+AB_gene_633,K01918,5,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Pantothenate and CoA biosynthesis; beta-Alanine metabolism,Cofactor / vitamin metabolism; Other,High,4,5,9,96
+AB_gene_66,K14682,5,2-Oxocarboxylic acid metabolism; Arginine biosynthesis; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways,Amino acid biosynthesis; Other,High,4,5,9,97
+AB_gene_703,K00620,5,2-Oxocarboxylic acid metabolism; Arginine biosynthesis; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways,Amino acid biosynthesis; Other,High,4,5,9,98
+AB_gene_722,K00549,5,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Cysteine and methionine metabolism; Metabolic pathways; Selenocompound metabolism,Amino acid biosynthesis; Other,High,4,5,9,99
+AB_gene_817,K01579,5,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Pantothenate and CoA biosynthesis; beta-Alanine metabolism,Cofactor / vitamin metabolism; Other,High,4,5,9,100
+AB_gene_825,K02492,5,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Microbial metabolism in diverse environments; Porphyrin metabolism,Cofactor / vitamin metabolism; Other,High,4,5,9,101
+AB_gene_871,K00930,5,2-Oxocarboxylic acid metabolism; Arginine biosynthesis; Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways,Amino acid biosynthesis; Other,High,4,5,9,102
+AB_gene_1045,K05515,3,Metabolic pathways; Peptidoglycan biosynthesis; beta-Lactam resistance,Cell wall / envelope; Other,High,5,3,8,103
+AB_gene_1154,K14159,3,DNA replication; Homologous recombination; Mismatch repair,DNA / replication / repair; Other,High,5,3,8,104
+AB_gene_14,K02338,3,DNA replication; Homologous recombination; Mismatch repair,DNA / replication / repair; Other,High,5,3,8,105
+AB_gene_1751,K02337,3,DNA replication; Homologous recombination; Mismatch repair,DNA / replication / repair; Other,High,5,3,8,106
+AB_gene_1864,K02341,3,DNA replication; Homologous recombination; Mismatch repair,DNA / replication / repair; Other,High,5,3,8,107
+AB_gene_2309,K00677,3,Cationic antimicrobial peptide (CAMP) resistance; Lipopolysaccharide biosynthesis; Metabolic pathways,Cell wall / envelope; Other,High,5,3,8,108
+AB_gene_2376,K02343,3,DNA replication; Homologous recombination; Mismatch repair,DNA / replication / repair; Other,High,5,3,8,109
+AB_gene_3116,K03760,3,Cationic antimicrobial peptide (CAMP) resistance; Lipopolysaccharide biosynthesis; Metabolic pathways,Cell wall / envelope; Other,High,5,3,8,110
+AB_gene_317,K01925,3,D-Amino acid metabolism; Metabolic pathways; Peptidoglycan biosynthesis,Amino acid biosynthesis; Cell wall / envelope; Other,High,5,3,8,111
+AB_gene_3504,K05366,3,Metabolic pathways; Peptidoglycan biosynthesis; beta-Lactam resistance,Cell wall / envelope; Other,High,5,3,8,112
+AB_gene_3507,K01000,3,Metabolic pathways; Peptidoglycan biosynthesis; Vancomycin resistance,Cell wall / envelope; Other,High,5,3,8,113
+AB_gene_3509,K01928,3,Lysine biosynthesis; Metabolic pathways; Peptidoglycan biosynthesis,Cell wall / envelope; Other,High,5,3,8,114
+AB_gene_3510,K03587,3,Metabolic pathways; Peptidoglycan biosynthesis; beta-Lactam resistance,Cell wall / envelope; Other,High,5,3,8,115
+AB_gene_3595,K03111,3,DNA replication; Homologous recombination; Mismatch repair,DNA / replication / repair; Other,High,5,3,8,116
+AB_gene_3627,K07462,3,Base excision repair; Homologous recombination; Mismatch repair,DNA / replication / repair; Other,High,5,3,8,117
+AB_gene_589,K02340,3,DNA replication; Homologous recombination; Mismatch repair,DNA / replication / repair; Other,High,5,3,8,118
+AB_gene_1140,K03185,4,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Ubiquinone and other terpenoid-quinone biosynthesis,Cofactor / vitamin metabolism; Other,High,4,4,8,119
+AB_gene_1336,K02502,4,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Histidine metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,4,8,120
+AB_gene_1759,K14267,4,Biosynthesis of amino acids; Lysine biosynthesis; Metabolic pathways; Microbial metabolism in diverse environments,Amino acid biosynthesis; Other,High,4,4,8,121
+AB_gene_1979,K01736,4,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid biosynthesis; Other,High,4,4,8,122
+AB_gene_2219,K03785,4,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid biosynthesis; Other,High,4,4,8,123
+AB_gene_2319,K09903,4,Biosynthesis of cofactors; Metabolic pathways; Nucleotide metabolism; Pyrimidine metabolism,Cofactor / vitamin metabolism; Nucleotide metabolism; Other,High,4,4,8,124
+AB_gene_2357,K03786,4,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid biosynthesis; Other,High,4,4,8,125
+AB_gene_2432,K01951,4,Drug metabolism - other enzymes; Metabolic pathways; Nucleotide metabolism; Purine metabolism,Nucleotide metabolism; Other,High,4,4,8,126
+AB_gene_2460,K06134,4,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Ubiquinone and other terpenoid-quinone biosynthesis,Cofactor / vitamin metabolism; Other,High,4,4,8,127
+AB_gene_2617,K14170,4,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid biosynthesis; Other,High,4,4,8,128
+AB_gene_2772,K00766,4,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid biosynthesis; Other,High,4,4,8,129
+AB_gene_2773,K01609,4,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid biosynthesis; Other,High,4,4,8,130
+AB_gene_2935,K00674,4,Biosynthesis of amino acids; Lysine biosynthesis; Metabolic pathways; Microbial metabolism in diverse environments,Amino acid biosynthesis; Other,High,4,4,8,131
+AB_gene_297,K00793,4,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Riboflavin metabolism,Cofactor / vitamin metabolism; Other,High,4,4,8,132
+AB_gene_3125,K09788,4,Carbon metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Propanoate metabolism,Energy metabolism; Other,High,4,4,8,133
+AB_gene_3168,K01439,4,Biosynthesis of amino acids; Lysine biosynthesis; Metabolic pathways; Microbial metabolism in diverse environments,Amino acid biosynthesis; Other,High,4,4,8,134
+AB_gene_3233,K01817,4,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid biosynthesis; Other,High,4,4,8,135
+AB_gene_3340,K03809,4,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Ubiquinone and other terpenoid-quinone biosynthesis,Cofactor / vitamin metabolism; Other,High,4,4,8,136
+AB_gene_3496,K01735,4,"Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Metabolic pathways; Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid biosynthesis; Other,High,4,4,8,137
+AB_gene_3537,K01693,4,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Histidine metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,4,8,138
+AB_gene_3538,K02501,4,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Histidine metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,4,8,139
+AB_gene_3541,K01814,4,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Histidine metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,4,8,140
+AB_gene_3547,K02500,4,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Histidine metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,4,8,141
+AB_gene_3662,K07127,4,Metabolic pathways; Microbial metabolism in diverse environments; Purine metabolism; Two-component system,Nucleotide metabolism; Other,High,4,4,8,142
+AB_gene_3699,K00794,4,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Riboflavin metabolism,Cofactor / vitamin metabolism; Other,High,4,4,8,143
+AB_gene_410,K11755,4,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Histidine metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,4,8,144
+AB_gene_442,K01772,4,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Porphyrin metabolism,Cofactor / vitamin metabolism; Other,High,4,4,8,145
+AB_gene_472,K28842,4,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Histidine metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,4,8,146
+AB_gene_541,K01519,4,Drug metabolism - other enzymes; Metabolic pathways; Nucleotide metabolism; Purine metabolism,Nucleotide metabolism; Other,High,4,4,8,147
+AB_gene_556,K01690,4,Carbon metabolism; Metabolic pathways; Microbial metabolism in diverse environments; Pentose phosphate pathway,Energy metabolism; Other,High,4,4,8,148
+AB_gene_57,K11753,4,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Riboflavin metabolism,Cofactor / vitamin metabolism; Other,High,4,4,8,149
+AB_gene_632,K00606,4,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Pantothenate and CoA biosynthesis,Cofactor / vitamin metabolism; Other,High,4,4,8,150
+AB_gene_677,K00765,4,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Histidine metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,4,8,151
+AB_gene_678,K00013,4,Biosynthesis of amino acids; Biosynthesis of secondary metabolites; Histidine metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,4,8,152
+AB_gene_735,K00526,4,Metabolic pathways; Nucleotide metabolism; Purine metabolism; Pyrimidine metabolism,Nucleotide metabolism; Other,High,4,4,8,153
+AB_gene_814,K02858,4,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Riboflavin metabolism,Cofactor / vitamin metabolism; Other,High,4,4,8,154
+AB_gene_829,K05810,4,Cysteine and methionine metabolism; Metabolic pathways; Nucleotide metabolism; Purine metabolism,Nucleotide metabolism; Other,High,4,4,8,155
+AB_gene_846,K08973,4,Biosynthesis of cofactors; Biosynthesis of secondary metabolites; Metabolic pathways; Porphyrin metabolism,Cofactor / vitamin metabolism; Other,High,4,4,8,156
+AB_gene_893,K00681,4,Cyanoamino acid metabolism; Glutathione metabolism; Metabolic pathways; Taurine and hypotaurine metabolism,Amino acid biosynthesis; Other,High,4,4,8,157
+AB_gene_1015,K03814,2,Metabolic pathways; Peptidoglycan biosynthesis,Cell wall / envelope; Other,High,5,2,7,158
+AB_gene_1494,K02517,2,Lipopolysaccharide biosynthesis; Metabolic pathways,Cell wall / envelope; Other,High,5,2,7,159
+AB_gene_1862,K00912,2,Lipopolysaccharide biosynthesis; Metabolic pathways,Cell wall / envelope; Other,High,5,2,7,160
+AB_gene_1955,K00748,2,Lipopolysaccharide biosynthesis; Metabolic pathways,Cell wall / envelope; Other,High,5,2,7,161
+AB_gene_2311,K02536,2,Lipopolysaccharide biosynthesis; Metabolic pathways,Cell wall / envelope; Other,High,5,2,7,162
+AB_gene_2435,K03269,2,Lipopolysaccharide biosynthesis; Metabolic pathways,Cell wall / envelope; Other,High,5,2,7,163
+AB_gene_2502,K02314,2,Cell cycle - Caulobacter; DNA replication,DNA / replication / repair; Other,High,5,2,7,164
+AB_gene_2624,K05365,2,Metabolic pathways; Peptidoglycan biosynthesis,Cell wall / envelope; Other,High,5,2,7,165
+AB_gene_2832,K07258,2,Metabolic pathways; Peptidoglycan biosynthesis,Cell wall / envelope; Other,High,5,2,7,166
+AB_gene_2878,K07258,2,Metabolic pathways; Peptidoglycan biosynthesis,Cell wall / envelope; Other,High,5,2,7,167
+AB_gene_2917,K03685,2,Proteoglycans in cancer; Ribosome biogenesis in eukaryotes,Other; Protein synthesis,High,5,2,7,168
+AB_gene_3130,K06153,2,Peptidoglycan biosynthesis; Teichoic acid biosynthesis,Cell wall / envelope; Other,High,5,2,7,169
+AB_gene_318,K03588,2,Cell cycle - Caulobacter; Peptidoglycan biosynthesis,Cell wall / envelope; Other,High,5,2,7,170
+AB_gene_32,K19302,2,Peptidoglycan biosynthesis; Teichoic acid biosynthesis,Cell wall / envelope; Other,High,5,2,7,171
+AB_gene_3621,K02527,2,Lipopolysaccharide biosynthesis; Metabolic pathways,Cell wall / envelope; Other,High,5,2,7,172
+AB_gene_3640,K02535,2,Lipopolysaccharide biosynthesis; Metabolic pathways,Cell wall / envelope; Other,High,5,2,7,173
+AB_gene_3645,K01924,2,Metabolic pathways; Peptidoglycan biosynthesis,Cell wall / envelope; Other,High,5,2,7,174
+AB_gene_493,K02517,2,Lipopolysaccharide biosynthesis; Metabolic pathways,Cell wall / envelope; Other,High,5,2,7,175
+AB_gene_1163,K01465,3,Biosynthesis of cofactors; Metabolic pathways; Pyrimidine metabolism,Cofactor / vitamin metabolism; Nucleotide metabolism; Other,High,4,3,7,176
+AB_gene_1351,K01465,3,Biosynthesis of cofactors; Metabolic pathways; Pyrimidine metabolism,Cofactor / vitamin metabolism; Nucleotide metabolism; Other,High,4,3,7,177
+AB_gene_1555,K01487,3,Metabolic pathways; Nucleotide metabolism; Purine metabolism,Nucleotide metabolism; Other,High,4,3,7,178
+AB_gene_1722,K00425,3,Metabolic pathways; Oxidative phosphorylation; Two-component system,Energy metabolism; Other,High,4,3,7,179
+AB_gene_1733,K16841,3,Metabolic pathways; Microbial metabolism in diverse environments; Purine metabolism,Nucleotide metabolism; Other,High,4,3,7,180
+AB_gene_1814,K01012,3,Biosynthesis of cofactors; Biotin metabolism; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,181
+AB_gene_187,K00285,3,D-Amino acid metabolism; Metabolic pathways; Phenylalanine metabolism,Amino acid biosynthesis; Other,High,4,3,7,182
+AB_gene_1872,K01737,3,Biosynthesis of cofactors; Folate biosynthesis; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,183
+AB_gene_1877,K00945,3,Metabolic pathways; Nucleotide metabolism; Pyrimidine metabolism,Nucleotide metabolism; Other,High,4,3,7,184
+AB_gene_188,K01775,3,D-Amino acid metabolism; Metabolic pathways; Vancomycin resistance,Amino acid biosynthesis; Other,High,4,3,7,185
+AB_gene_1881,K01591,3,Biosynthesis of cofactors; Metabolic pathways; Pyrimidine metabolism,Cofactor / vitamin metabolism; Nucleotide metabolism; Other,High,4,3,7,186
+AB_gene_1944,K02231,3,Biosynthesis of cofactors; Metabolic pathways; Porphyrin metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,187
+AB_gene_2262,K00425,3,Metabolic pathways; Oxidative phosphorylation; Two-component system,Energy metabolism; Other,High,4,3,7,188
+AB_gene_2263,K00426,3,Metabolic pathways; Oxidative phosphorylation; Two-component system,Energy metabolism; Other,High,4,3,7,189
+AB_gene_2328,K00285,3,D-Amino acid metabolism; Metabolic pathways; Phenylalanine metabolism,Amino acid biosynthesis; Other,High,4,3,7,190
+AB_gene_2341,K03750,3,Biosynthesis of cofactors; Folate biosynthesis; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,191
+AB_gene_237,K02108,3,Metabolic pathways; Oxidative phosphorylation; Photosynthesis,Energy metabolism; Other,High,4,3,7,192
+AB_gene_238,K02110,3,Metabolic pathways; Oxidative phosphorylation; Photosynthesis,Energy metabolism; Other,High,4,3,7,193
+AB_gene_239,K02109,3,Metabolic pathways; Oxidative phosphorylation; Photosynthesis,Energy metabolism; Other,High,4,3,7,194
+AB_gene_240,K02113,3,Metabolic pathways; Oxidative phosphorylation; Photosynthesis,Energy metabolism; Other,High,4,3,7,195
+AB_gene_242,K02115,3,Metabolic pathways; Oxidative phosphorylation; Photosynthesis,Energy metabolism; Other,High,4,3,7,196
+AB_gene_244,K02114,3,Metabolic pathways; Oxidative phosphorylation; Photosynthesis,Energy metabolism; Other,High,4,3,7,197
+AB_gene_2470,K01633,3,Biosynthesis of cofactors; Folate biosynthesis; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,198
+AB_gene_2503,K01775,3,D-Amino acid metabolism; Metabolic pathways; Vancomycin resistance,Amino acid biosynthesis; Other,High,4,3,7,199
+AB_gene_2609,K03149,3,Biosynthesis of cofactors; Metabolic pathways; Thiamine metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,200
+AB_gene_2862,K00788,3,Biosynthesis of cofactors; Metabolic pathways; Thiamine metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,201
+AB_gene_2913,K03474,3,Biosynthesis of cofactors; Metabolic pathways; Vitamin B6 metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,202
+AB_gene_2925,K00943,3,Metabolic pathways; Nucleotide metabolism; Pyrimidine metabolism,Nucleotide metabolism; Other,High,4,3,7,203
+AB_gene_3004,K03473,3,Biosynthesis of cofactors; Metabolic pathways; Vitamin B6 metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,204
+AB_gene_3046,K00796,3,Biosynthesis of cofactors; Folate biosynthesis; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,205
+AB_gene_3082,K03801,3,Biosynthesis of cofactors; Lipoic acid metabolism; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,206
+AB_gene_321,K03651,3,Biofilm formation - Pseudomonas aeruginosa; Metabolic pathways; Purine metabolism,Nucleotide metabolism; Other,High,4,3,7,207
+AB_gene_3225,K11754,3,Biosynthesis of cofactors; Folate biosynthesis; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,208
+AB_gene_323,K03147,3,Biosynthesis of cofactors; Metabolic pathways; Thiamine metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,209
+AB_gene_3275,K13038,3,Biosynthesis of cofactors; Metabolic pathways; Pantothenate and CoA biosynthesis,Cofactor / vitamin metabolism; Other,High,4,3,7,210
+AB_gene_3306,K00097,3,Biosynthesis of cofactors; Metabolic pathways; Vitamin B6 metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,211
+AB_gene_3647,K01920,3,Biosynthesis of cofactors; Glutathione metabolism; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,212
+AB_gene_3650,K00762,3,Biosynthesis of cofactors; Metabolic pathways; Pyrimidine metabolism,Cofactor / vitamin metabolism; Nucleotide metabolism; Other,High,4,3,7,213
+AB_gene_3690,K00763,3,Biosynthesis of cofactors; Metabolic pathways; Nicotinate and nicotinamide metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,214
+AB_gene_37,K01589,3,Biosynthesis of secondary metabolites; Metabolic pathways; Purine metabolism,Nucleotide metabolism; Other,High,4,3,7,215
+AB_gene_3701,K00946,3,Biosynthesis of cofactors; Metabolic pathways; Thiamine metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,216
+AB_gene_59,K01243,3,Biosynthesis of amino acids; Cysteine and methionine metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,3,7,217
+AB_gene_631,K00950,3,Biosynthesis of cofactors; Folate biosynthesis; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,218
+AB_gene_704,K03517,3,Biosynthesis of cofactors; Metabolic pathways; Nicotinate and nicotinamide metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,219
+AB_gene_755,K00761,3,Metabolic pathways; Nucleotide metabolism; Pyrimidine metabolism,Nucleotide metabolism; Other,High,4,3,7,220
+AB_gene_776,K01494,3,Metabolic pathways; Nucleotide metabolism; Pyrimidine metabolism,Nucleotide metabolism; Other,High,4,3,7,221
+AB_gene_785,K03525,3,Biosynthesis of cofactors; Metabolic pathways; Pantothenate and CoA biosynthesis,Cofactor / vitamin metabolism; Other,High,4,3,7,222
+AB_gene_796,K02170,3,Biosynthesis of cofactors; Biotin metabolism; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,223
+AB_gene_799,K02169,3,Biosynthesis of cofactors; Biotin metabolism; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,224
+AB_gene_800,K01935,3,Biosynthesis of cofactors; Biotin metabolism; Metabolic pathways,Cofactor / vitamin metabolism; Other,High,4,3,7,225
+AB_gene_812,K00941,3,Biosynthesis of cofactors; Metabolic pathways; Thiamine metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,226
+AB_gene_832,K00954,3,Biosynthesis of cofactors; Metabolic pathways; Pantothenate and CoA biosynthesis,Cofactor / vitamin metabolism; Other,High,4,3,7,227
+AB_gene_843,K01950,3,Biosynthesis of cofactors; Metabolic pathways; Nicotinate and nicotinamide metabolism,Cofactor / vitamin metabolism; Other,High,4,3,7,228
+AB_gene_1271,K03470,1,DNA replication,DNA / replication / repair,High,5,1,6,229
+AB_gene_13,K03629,1,Homologous recombination,DNA / replication / repair,High,5,1,6,230
+AB_gene_1817,K01159,1,Homologous recombination,DNA / replication / repair,High,5,1,6,231
+AB_gene_1878,K02945,1,Ribosome,Protein synthesis,High,5,1,6,232
+AB_gene_1903,K02968,1,Ribosome,Protein synthesis,High,5,1,6,233
+AB_gene_1976,K06187,1,Homologous recombination,DNA / replication / repair,High,5,1,6,234
+AB_gene_2306,K03553,1,Homologous recombination,DNA / replication / repair,High,5,1,6,235
+AB_gene_2499,K02990,1,Ribosome,Protein synthesis,High,5,1,6,236
+AB_gene_2500,K02963,1,Ribosome,Protein synthesis,High,5,1,6,237
+AB_gene_2501,K02939,1,Ribosome,Protein synthesis,High,5,1,6,238
+AB_gene_2588,K02970,1,Ribosome,Protein synthesis,High,5,1,6,239
+AB_gene_2732,K05837,1,Peptidoglycan biosynthesis,Cell wall / envelope,High,5,1,6,240
+AB_gene_2822,K02909,1,Ribosome,Protein synthesis,High,5,1,6,241
+AB_gene_2949,K03550,1,Homologous recombination,DNA / replication / repair,High,5,1,6,242
+AB_gene_2950,K03551,1,Homologous recombination,DNA / replication / repair,High,5,1,6,243
+AB_gene_3094,K02888,1,Ribosome,Protein synthesis,High,5,1,6,244
+AB_gene_3363,K02986,1,Ribosome,Protein synthesis,High,5,1,6,245
+AB_gene_3365,K02952,1,Ribosome,Protein synthesis,High,5,1,6,246
+AB_gene_3366,K02919,1,Ribosome,Protein synthesis,High,5,1,6,247
+AB_gene_3368,K02876,1,Ribosome,Protein synthesis,High,5,1,6,248
+AB_gene_3369,K02907,1,Ribosome,Protein synthesis,High,5,1,6,249
+AB_gene_3370,K02988,1,Ribosome,Protein synthesis,High,5,1,6,250
+AB_gene_3371,K02881,1,Ribosome,Protein synthesis,High,5,1,6,251
+AB_gene_3372,K02933,1,Ribosome,Protein synthesis,High,5,1,6,252
+AB_gene_3373,K02994,1,Ribosome,Protein synthesis,High,5,1,6,253
+AB_gene_3375,K02931,1,Ribosome,Protein synthesis,High,5,1,6,254
+AB_gene_3376,K02895,1,Ribosome,Protein synthesis,High,5,1,6,255
+AB_gene_3378,K02961,1,Ribosome,Protein synthesis,High,5,1,6,256
+AB_gene_3379,K02904,1,Ribosome,Protein synthesis,High,5,1,6,257
+AB_gene_3383,K02965,1,Ribosome,Protein synthesis,High,5,1,6,258
+AB_gene_3386,K02926,1,Ribosome,Protein synthesis,High,5,1,6,259
+AB_gene_3401,K03655,1,Homologous recombination,DNA / replication / repair,High,5,1,6,260
+AB_gene_3468,K02884,1,Ribosome,Protein synthesis,High,5,1,6,261
+AB_gene_349,K02863,1,Ribosome,Protein synthesis,High,5,1,6,262
+AB_gene_350,K02864,1,Ribosome,Protein synthesis,High,5,1,6,263
+AB_gene_351,K02935,1,Ribosome,Protein synthesis,High,5,1,6,264
+AB_gene_418,K03583,1,Homologous recombination,DNA / replication / repair,High,5,1,6,265
+AB_gene_419,K03582,1,Homologous recombination,DNA / replication / repair,High,5,1,6,266
+AB_gene_420,K03581,1,Homologous recombination,DNA / replication / repair,High,5,1,6,267
+AB_gene_422,K02956,1,Ribosome,Protein synthesis,High,5,1,6,268
+AB_gene_450,K02909,1,Ribosome,Protein synthesis,High,5,1,6,269
+AB_gene_510,K02902,1,Ribosome,Protein synthesis,High,5,1,6,270
+AB_gene_643,K02916,1,Ribosome,Protein synthesis,High,5,1,6,271
+AB_gene_807,K02911,1,Ribosome,Protein synthesis,High,5,1,6,272
+AB_gene_819,K02897,1,Ribosome,Protein synthesis,High,5,1,6,273
+AB_gene_826,K02316,1,DNA replication,DNA / replication / repair,High,5,1,6,274
+AB_gene_1016,K00937,2,Oxidative phosphorylation; RNA degradation,Energy metabolism; Other,High,4,2,6,275
+AB_gene_1571,K22550,2,D-Amino acid metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,2,6,276
+AB_gene_2047,K00937,2,Oxidative phosphorylation; RNA degradation,Energy metabolism; Other,High,4,2,6,277
+AB_gene_2494,K02297,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,278
+AB_gene_2496,K02299,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,279
+AB_gene_2497,K02300,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,280
+AB_gene_2879,K03885,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,281
+AB_gene_2927,K02619,2,Biosynthesis of cofactors; Folate biosynthesis,Cofactor / vitamin metabolism; Other,High,4,2,6,282
+AB_gene_3482,K01139,2,Metabolic pathways; Purine metabolism,Nucleotide metabolism; Other,High,4,2,6,283
+AB_gene_3667,K01483,2,Metabolic pathways; Purine metabolism,Nucleotide metabolism; Other,High,4,2,6,284
+AB_gene_3705,K01776,2,D-Amino acid metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,2,6,285
+AB_gene_440,K01776,2,D-Amino acid metabolism; Metabolic pathways,Amino acid biosynthesis; Other,High,4,2,6,286
+AB_gene_742,K00330,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,287
+AB_gene_744,K13378,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,288
+AB_gene_747,K00336,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,289
+AB_gene_750,K00339,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,290
+AB_gene_751,K00340,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,291
+AB_gene_752,K00341,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,292
+AB_gene_753,K00342,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,293
+AB_gene_754,K00343,2,Metabolic pathways; Oxidative phosphorylation,Energy metabolism; Other,High,4,2,6,294
+AB_gene_284,K01507,1,Oxidative phosphorylation,Energy metabolism,High,4,1,5,295
